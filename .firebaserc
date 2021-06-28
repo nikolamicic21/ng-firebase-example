@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "ng-firebase-example-project",
+    "dev": "ng-firebase-example-project"
+  }
+}
